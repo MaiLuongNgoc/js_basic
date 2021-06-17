@@ -2,8 +2,8 @@
 
 ## How to init project and push it to github
 
-### init project on github 
-### init project at local 
+### Init project on github 
+### Init project at local 
 
 ```
 # init project at local
